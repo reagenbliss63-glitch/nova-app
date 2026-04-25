@@ -1,0 +1,16 @@
+{
+  "name": "nova-saas-landing",
+  "version": "1.0.0",
+  "description": "Premium SaaS Landing Page with dark mode, neon gradients, and glassmorphism",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "keywords": ["saas", "landing-page", "express", "glassmorphism"],
+  "author": "",
+  "license": "MIT"
+}
